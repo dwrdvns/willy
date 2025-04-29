@@ -1,54 +1,42 @@
 <header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+# Willy Evans
 
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_Experienced SEO strategist, community builder, and creative leader in digital media and nonprofit arts._
 
 </header>
+---
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+## About Me
 
-## Step 1: Enable GitHub Pages
+Hi, I’m Willy Evans — a digital strategist, nonprofit leader, and passionate advocate for creative communities.
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+For over six years, I led the SEO department at Digital Division, where I oversaw strategy for 50+ clients across industries. I’ve built reporting systems, optimized technical SEO, managed content teams, and driven long-term traffic growth through thoughtful, scalable solutions. I’m highly experienced with tools like Google Analytics, Looker Studio, SEMrush, and Tag Manager.
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+Outside of SEO, I serve as the president of Film Society KC and co-founded the KC Underground Film Festival. Both are grassroots organizations focused on expanding access to independent and inclusive media. These roles have sharpened my skills in leadership, community-building, and mission-driven storytelling.
 
-### :keyboard: Activity: Enable GitHub Pages
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+Whether I’m working in digital marketing or community arts, my goal is the same: build things that matter and bring people together.
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+## Projects
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+### [DFX Foundation & Waterproofing Experts](https://dfxrepair.com/)
+Wrote all website content for this home services company, ensuring SEO best practices while clearly communicating technical offerings to homeowners. Balanced local targeting with professional brand voice to support lead generation.
+
+### [Multi Service Fuel Card](https://www.multiservicefuelcard.com/)
+Developed all web copy for a major fleet fuel card platform. Focused on clarity, value proposition, and conversion optimization while aligning content with the client’s industry-specific regulatory needs and B2B voice.
+
+### Local SEO Strategy for Multi-Location Businesses  
+Managed local SEO for businesses with multiple locations, including:
+- [Summit Pizza](https://ordersummitpizza.com/) – Increased local visibility and optimized listings across platforms to drive foot traffic.
+- [Nebraska Hand & Shoulder Institute](https://www.carpaltunnelrelief.net/) – Streamlined location pages, improved citations, and implemented schema to support medical SEO.
+- [Mario Castillo Electric](https://mariocastilloelectric.com/) – Developed and maintained hyper-local keyword strategies to support growth in new service areas.
+
+---
+
+<footer>
+
+---
 
 </footer>
